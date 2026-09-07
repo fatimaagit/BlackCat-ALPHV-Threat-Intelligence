@@ -65,7 +65,3 @@ The IOC analysis focuses on identifying how these indicators can be used for def
 * CISA — BlackCat Ransomware Advisory (AA23-353A)
 * MITRE ATT&CK — BlackCat/ALPHV
 * CommTel — IOC defensive guidance
-
-## Disclaimer
-
-Educational project focused on publicly documented BlackCat/ALPHV activity and defensive cybersecurity analysis.
